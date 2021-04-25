@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#hamburger-form {
+    display: block;
+    width: 350px;
+    margin: 15px auto 0;
+}
+
+h4 {
+    margin-bottom: 8px;
+}
+
+h3 {
+    font-size: 17px;
+    display: block;
+    padding: 20px 0;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.hamburger-fieldset-inside {
+    margin: 20px 0;
+    padding: 20px 0;
+}
+
+#check {
+    margin-bottom: 20px;
+    padding: 10px;
+}
